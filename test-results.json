@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-18T19:06:15.560Z",
+  "testsPassed": 34,
+  "testsFailed": 0,
+  "assertions": [
+    {
+      "status": "PASS",
+      "message": "Viewport 360x640: 0px horizontal overflow (scrollWidth=360px, clientWidth=360px)"
+    },
+    {
+      "status": "PASS",
+      "message": "Viewport 390x844: 0px horizontal overflow (scrollWidth=390px, clientWidth=390px)"
+    },
+    {
+      "status": "PASS",
+      "message": "Viewport 430x932: 0px horizontal overflow (scrollWidth=430px, clientWidth=430px)"
+    },
+    {
+      "status": "PASS",
+      "message": "Viewport 1280x800: 0px horizontal overflow (scrollWidth=1280px, clientWidth=1280px)"
+    },
+    {
+      "status": "PASS",
+      "message": "Canvas is warm light ivory (rgb: rgb(250, 248, 245))"
+    },
+    {
+      "status": "PASS",
+      "message": "Primary headline contrast is AAA: 16.7:1 (>= 7:1)"
+    },
+    {
+      "status": "PASS",
+      "message": "Milestone supporting headline contrast is AA: 8.5:1 (>= 4.5:1)"
+    },
+    {
+      "status": "PASS",
+      "message": "CTA button text contrast is AAA: 7.3:1 on Scripbox orange (>= 7:1)"
+    },
+    {
+      "status": "PASS",
+      "message": "Scripbox portfolio green contrast is AA: 6.1:1 on light canvas (>= 4.5:1)"
+    },
+    {
+      "status": "PASS",
+      "message": "All interactive controls have tap targets >= 44x44px (failures: [])"
+    },
+    {
+      "status": "PASS",
+      "message": "Zero sub-12px elements in strategy cards (100% compliant with typography floor)"
+    },
+    {
+      "status": "PASS",
+      "message": "All body copy elements >= 15px font size (100% compliant)"
+    },
+    {
+      "status": "PASS",
+      "message": "Default active performance period is 4Y"
+    },
+    {
+      "status": "PASS",
+      "message": "4Y performance metrics: Scripbox=25.4%, Benchmark=12.8%"
+    },
+    {
+      "status": "PASS",
+      "message": "2Y period switch updates metrics: Scripbox=26.8%, Benchmark=15.4%"
+    },
+    {
+      "status": "PASS",
+      "message": "3Y period switch updates metrics: Scripbox=30.6%"
+    },
+    {
+      "status": "PASS",
+      "message": "Optimiser strategy tab is active by default"
+    },
+    {
+      "status": "PASS",
+      "message": "Strategy drawer is collapsed by default with aria-expanded=\"false\" and hidden attribute"
+    },
+    {
+      "status": "PASS",
+      "message": "Clicking accordion opens drawer smoothly (expanded=true, hidden=false)"
+    },
+    {
+      "status": "PASS",
+      "message": "Drawer button label dynamically updates to \"Hide strategy details\""
+    },
+    {
+      "status": "PASS",
+      "message": "Strategy tab switch activates \"Select Direct Growth\" card"
+    },
+    {
+      "status": "PASS",
+      "message": "Strategy tab switch activates \"Focused Leadership\" card"
+    },
+    {
+      "status": "PASS",
+      "message": "All 4 leadership photographs loaded with valid natural dimensions (count: 4)"
+    },
+    {
+      "status": "PASS",
+      "message": "Clicking carousel next advances active slide dot to index 1 (Sanjiv Singhal)"
+    },
+    {
+      "status": "PASS",
+      "message": "Clicking Hero CTA (\"Connect with our PMS expert\") opens Step 1 (Primary Objective) modal"
+    },
+    {
+      "status": "PASS",
+      "message": "Selecting objective advances to Step 2 (Planned Investment scale)"
+    },
+    {
+      "status": "PASS",
+      "message": "Selecting investment bracket advances to Step 3 (Contact Form)"
+    },
+    {
+      "status": "PASS",
+      "message": "Strategy recap pill reflects selections: \"Goal-based strategy • 50 Lakhs to 2 Crore\""
+    },
+    {
+      "status": "PASS",
+      "message": "Contact submit button is disabled before form is filled"
+    },
+    {
+      "status": "PASS",
+      "message": "Valid form input enables consultation submit button"
+    },
+    {
+      "status": "PASS",
+      "message": "Form submission advances to Step 4 (Confirmation screen with roadmap)"
+    },
+    {
+      "status": "PASS",
+      "message": "Selecting preferred callback window saves selection and displays confirmation hint"
+    },
+    {
+      "status": "PASS",
+      "message": "Clicking \"Done • Return to Overview\" dismisses modal and restores page scroll"
+    },
+    {
+      "status": "PASS",
+      "message": "prefers-reduced-motion: curves and markers render statically at 100% opacity without delay"
+    }
+  ]
+}
