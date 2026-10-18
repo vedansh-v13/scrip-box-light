@@ -299,7 +299,7 @@ html, body {
 /* Hero CTA Container (Canonical Variant B) */
 .hero-cta-container {
   width: 100%;
-  margin: 18px 0 14px 0;
+  margin: 0 0 14px 0;
 }
 
 .cta-button {
@@ -2752,18 +2752,18 @@ html, body {
    ========================================================================== */
 .hero-illustration-wrap,
 .hero-growth-anchor {
-  margin: 6px 0 8px 0;
+  margin: 14px 0 22px 0;
   width: 100%;
   box-sizing: border-box;
   position: relative;
 }
 
 .hero-card-container {
-  background: transparent;
-  border: none;
-  border-radius: 0;
-  padding: 0;
-  box-shadow: none;
+  background: #FFFFFF;
+  border: 1px solid #EBE5DB;
+  border-radius: 16px;
+  padding: 16px 16px 14px 16px;
+  box-shadow: 0 2px 8px rgba(30, 25, 20, 0.03);
   position: relative;
   overflow: visible;
 }
@@ -2873,7 +2873,7 @@ html, body {
 
 .hero-label-scripbox {
   color: #246B46;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .hero-label-benchmark {
@@ -2966,9 +2966,9 @@ html, body {
 /* Floating Info Popup Popover */
 .hero-growth-popup {
   position: absolute;
-  top: 48px;
-  right: 12px;
-  left: 12px;
+  top: 40px;
+  right: 8px;
+  left: 8px;
   background: rgba(255, 255, 255, 0.98);
   border: 1px solid var(--border-card);
   border-radius: 12px;
@@ -3091,10 +3091,10 @@ html, body {
   }
   .hero-illustration-wrap,
   .hero-growth-anchor {
-    margin: 8px 0 4px 0;
+    margin: 16px 0 20px 0;
   }
   .hero-card-container {
-    padding: 0;
+    padding: 14px 14px 12px 14px;
   }
   .hero-card-header {
     margin-bottom: 4px;
@@ -3116,7 +3116,7 @@ html, body {
     margin-top: 0;
   }
   .hero-cta-container {
-    margin: 6px 0 8px 0;
+    margin: 0 0 8px 0;
   }
   .cta-button {
     height: 48px;
